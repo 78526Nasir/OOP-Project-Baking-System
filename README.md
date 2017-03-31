@@ -1,6 +1,6 @@
-/*
+/**
 ** Author: Nasir Islam Sujan
-** Project Name: Banking System
+*  Project Name: Banking System
 */
 
 # BankingSytemUsingGUI
