@@ -1,9 +1,10 @@
-/**
-** Author: Nasir Islam Sujan
-*  Project Name: Banking System
-*/
 
 # BankingSytemUsingGUI
+
+/**
+** Author: Nasir Islam Sujan
+**  Project Name: Banking System
+*/
 
 Simple banking system application using java GUI and SQL database.
 
