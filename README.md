@@ -1,11 +1,13 @@
 
 # BankingSytemUsingGUI
 
-/**
-** Author: Nasir Islam Sujan
-**  Project Name: Banking System
-*/
 
 Simple banking system application using java GUI and SQL database.
+This Project contain the below features:
+  ** Creating Account
+  ** Deposit Amount to accounts
+  ** Withdraw Amount from account
+  ** Calculate Interest
+  ** Check Balance
 
 
