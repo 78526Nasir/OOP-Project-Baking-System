@@ -1,7 +1,7 @@
 
 # BankingSytemUsingGUI
 
-    Simple banking system application using **java GUI**.
+    Simple banking system application using java GUI.
 
 # This Project contain the below features:
 
