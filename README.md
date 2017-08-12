@@ -28,6 +28,6 @@
 
 ### CopyRight and License 
 
-This Project is LICENSE under <a href="https://github.com/78526Nasir/BankingSystemUsingGUI/blob/master/LICENSE.md" target="_blank">MIT</a>
+This Project is LICENSE under <a href="https://opensource.org/licenses/mit-license.php" target="_blank">MIT</a>
 
 <a href="https://github.com/78526Nasir" target="_blank">Nasir Islam Sujan</a> &copy; 2017
