@@ -1,5 +1,5 @@
 
-# BankingSytemUsingGUI
+# Banking System
 
     Simple banking system application using java GUI.
 
