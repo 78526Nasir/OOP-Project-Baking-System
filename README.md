@@ -1,7 +1,7 @@
 
 # Banking System
 
-    Simple banking system application using java GUI.
+    Object Oriented Programming Project on Banking System using Java GUI.
 
 # This Project contain the below features:
 
